@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>IMAG0661.JPG</filename>
+	<path>D:\OfirL6\Documents\Ben\Annotations\LIZARDS\images\IMAG0661.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4000</width>
+		<height>3000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lizard</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>15</xmin>
+			<ymin>1397</ymin>
+			<xmax>434</xmax>
+			<ymax>1706</ymax>
+		</bndbox>
+	</object>
+</annotation>

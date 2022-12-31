@@ -1,0 +1,38 @@
+<annotation>
+	<folder>annotations</folder>
+	<filename>IMAG0595.JPG</filename>
+	<path>D:\OfirL6\Documents\Ben\enclosures_exp\מיון מחדש\annotations\IMAG0595.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4000</width>
+		<height>3000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lizard</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1567</xmin>
+			<ymin>144</ymin>
+			<xmax>1720</xmax>
+			<ymax>372</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>lizard</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1961</xmin>
+			<ymin>1387</ymin>
+			<xmax>2508</xmax>
+			<ymax>2178</ymax>
+		</bndbox>
+	</object>
+</annotation>
