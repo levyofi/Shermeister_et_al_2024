@@ -3,7 +3,7 @@ library(dplyr)
 library(lubridate)
 library(stringr)
 # Read the camera trap data
-data = read.csv("model_confidence_07.05.ALL_IMAGES_29.01.23.csv", header = T)
+data = read.csv("Data/model_confidence_data.csv", header = T)
 data$time = hms(data$model_time)
 
 #get enclosure, and camera from the concatenate id and make them a factor
@@ -26,7 +26,7 @@ data_thermo_95 = data_thermo_95[order(data_thermo_95$camera, data_thermo_95$h),]
 data_thermo_95$true_thermo = as.factor(data_thermo_95$true_thermo)
 data_thermo_95$true_color = as.factor(data_thermo_95$true_color)
 
-data <- data_thermo_95 #read.csv("data_for_analysis.csv", stringsAsFactors = T)
+data <- data_thermo_95 
 
 data$time = paste("2022-05-07", data$time) # need to add a date for the mutate to run without an error
 

@@ -1,7 +1,7 @@
 # Assuming your original data frame is named `data`
 library(dplyr)
 library(ggplot2)
-data = read.csv("model_confidence_07.05.ALL_IMAGES_29.01.23.csv", header = T)
+data = read.csv("Data/model_confidence_data.csv", header = T)
 data$time = hms(data$model_time)
 
 #parts of the day
@@ -29,7 +29,9 @@ data_thermo_95 = data_thermo_95[order(data_thermo_95$camera, data_thermo_95$h),]
 data_thermo_95$true_thermo = as.factor(data_thermo_95$true_thermo)
 data_thermo_95$true_color = as.factor(data_thermo_95$true_color)
 
-write.csv(data_thermo_95, row.names = F, file="data_for_analysis.csv")
+#save data for statistical analysis
+write.csv(data_thermo_95, row.names = F, file="Data/data_for_statistical_analysis.csv")
+
 
 percentage_df <- data_thermo_95 %>%
   group_by(true_color, part_of_day, true_thermo, wrong_sun.shade) %>%

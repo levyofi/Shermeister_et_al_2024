@@ -6,7 +6,7 @@ library(yardstick)
 library(ggplot2)
 library(gridExtra)
 
-data<-fread("model_confidence_07.05.ALL_IMAGES_29.01.23.csv")
+data<-fread("Data/model_confidence_data.csv")
 data<-data[data$FP==0]
 colnames(data)[c(2,4,6)]=c("model_thermo","model_color","time")
 data=data[data$model_thermo!="negative" & data$true_thermo!="negative" & data$true_thermo!="unclear",]

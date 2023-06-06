@@ -5,7 +5,7 @@ library(reshape2)
 library(plyr)
 library(lubridate)
 
-model_confidence_data<-fread("model_confidence_07.05.ALL_IMAGES_29.01.23.csv")
+model_confidence_data<-fread("Data/model_confidence_data.csv")
 
 #round the confidence scores to have only one decimal place 
 model_confidence_data$col_con<-round_any(model_confidence_data$color_confidence,1)
