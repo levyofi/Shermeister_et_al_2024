@@ -22,7 +22,7 @@ During the training process, we first trained a preliminary lizard detection mod
 
 After validating the automatically generated annotations, we repeated the detector training process using the same `train_detection.py` file (but this time with many more annotations). Finally, we used the detection and classification models to execute the framework using the `detect_and_classify.py` file.
 
-To learn which parts of an image were important for the classification process of our models, we used the `plot_Grad-CAM.py` file on several images shown in Figure 7 in our paper.
+To learn which parts of an image were important for the classification process of our models, we used the `plot_Grad-CAM.py` file on several images shown in Figure 5 in our paper.
 
 ## Preparing the Python environment:
 
