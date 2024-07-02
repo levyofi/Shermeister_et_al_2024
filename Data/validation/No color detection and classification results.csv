@@ -1,0 +1,409 @@
+image,lizards,true_detections,false_negative,false_positive,true_class,true_shade,true_sun,predicted_shade,predicted_sun,true_thermo,model_thermo
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0007 (2).JPG,2,2,0,0,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0007 (2).JPG,2,2,0,0,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0008.JPG,2,2,0,0,2,0,1,0,1,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0008.JPG,2,2,0,0,2,1,0,1,0,shade,shade
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0009.JPG,1,1,0,1,1,0,1,0,1,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0010.JPG,2,2,0,1,1,0,1,0,1,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0010.JPG,2,2,0,1,1,1,0,1,0,shade,shade
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0011.JPG,2,2,0,0,2,0,1,0,1,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0011.JPG,2,2,0,0,2,1,0,1,0,shade,shade
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0013 (2).JPG,2,2,0,1,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0013 (2).JPG,2,2,0,1,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0013 (3).JPG,2,2,0,0,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0013 (3).JPG,2,2,0,0,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0013 (4).JPG,1,1,0,0,1,0,1,0,1,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0013.JPG,2,2,0,0,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0013.JPG,2,2,0,0,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0014.JPG,2,2,0,0,2,0,1,0,1,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0014.JPG,2,2,0,0,2,1,0,1,0,shade,shade
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0016 (2).JPG,2,2,0,0,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0016 (2).JPG,2,2,0,0,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0016.JPG,2,2,0,0,2,0,1,0,1,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0016.JPG,2,2,0,0,2,1,0,1,0,shade,shade
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0017.JPG,2,2,0,0,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0017.JPG,2,2,0,0,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0019.JPG,1,1,0,0,1,0,1,0,1,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0020.JPG,2,2,0,0,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0020.JPG,2,2,0,0,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0021.JPG,3,3,0,0,3,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0021.JPG,3,3,0,0,3,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0021.JPG,3,3,0,0,3,1,0,1,0,shade,shade
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0022 (2).JPG,3,3,0,0,3,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0022 (2).JPG,3,3,0,0,3,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0022 (2).JPG,3,3,0,0,3,1,0,1,0,shade,shade
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0022.JPG,1,1,0,0,1,1,0,1,0,shade,shade
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0023.JPG,2,2,0,0,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0023.JPG,2,2,0,0,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0024.JPG,2,2,0,0,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0024.JPG,2,2,0,0,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0025 (2).JPG,3,3,0,0,3,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0025 (2).JPG,3,3,0,0,3,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0025 (2).JPG,3,3,0,0,3,1,0,1,0,shade,shade
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0025 (3).JPG,2,2,0,0,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0025 (3).JPG,2,2,0,0,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0026 (2).JPG,2,2,0,0,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0026 (2).JPG,2,2,0,0,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0026.JPG,2,2,0,1,1,1,0,1,0,shade,shade
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0026.JPG,2,2,0,1,1,1,0,1,0,shade,shade
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0028 (2).JPG,2,2,0,0,2,0,1,0,1,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0028 (2).JPG,2,2,0,0,2,1,0,1,0,shade,shade
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0028 (3).JPG,2,2,0,1,1,0,2,0,1,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0028 (3).JPG,2,2,0,1,1,0,2,1,0,sun,shade
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0028.JPG,1,1,0,0,1,0,1,0,1,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0029.JPG,1,1,0,0,1,0,1,0,1,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0031 (2).JPG,1,1,0,0,1,1,0,1,0,shade,shade
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0031.JPG,2,2,0,0,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0031.JPG,2,2,0,0,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0032 (2).JPG,3,3,0,0,3,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0032 (2).JPG,3,3,0,0,3,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0032 (2).JPG,3,3,0,0,3,1,0,1,0,shade,shade
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0032.JPG,1,1,0,0,1,0,1,0,1,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0033.JPG,2,1,1,1,1,0,1,0,1,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0034 (2).JPG,2,1,1,1,1,0,1,0,1,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0034 (3).JPG,2,2,0,0,2,0,1,0,1,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0034 (3).JPG,2,2,0,0,2,1,0,1,0,shade,shade
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0034.JPG,3,2,1,1,2,0,1,0,1,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0034.JPG,3,2,1,1,2,1,0,1,0,shade,shade
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0037 (2).JPG,2,2,0,0,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0037 (2).JPG,2,2,0,0,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0037.JPG,2,2,0,0,2,0,1,0,1,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0037.JPG,2,2,0,0,2,1,0,1,0,shade,shade
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0039.JPG,2,2,0,2,2,0,1,0,1,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0039.JPG,2,2,0,2,2,1,0,1,0,shade,shade
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0040 (2).JPG,1,1,0,1,1,0,1,0,1,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0040 (3).JPG,2,2,0,0,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0040 (3).JPG,2,2,0,0,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0040.JPG,3,2,1,1,2,0,1,0,1,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0040.JPG,3,2,1,1,2,1,0,1,0,shade,shade
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0042.JPG,2,2,0,1,2,0,1,0,1,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0042.JPG,2,2,0,1,2,1,0,1,0,shade,shade
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0043 (2).JPG,2,2,0,0,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0043 (2).JPG,2,2,0,0,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0043.JPG,2,1,1,1,1,0,1,0,1,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0046.JPG,3,3,0,0,3,0,3,0,3,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0046.JPG,3,3,0,0,3,0,3,0,3,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0046.JPG,3,3,0,0,3,0,3,0,3,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0048.JPG,3,2,1,0,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0048.JPG,3,2,1,0,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0049 (2).JPG,2,2,0,0,2,0,1,0,1,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0049 (2).JPG,2,2,0,0,2,1,0,1,0,shade,shade
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0049 (3).JPG,3,3,0,0,3,0,3,0,3,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0049 (3).JPG,3,3,0,0,3,0,3,0,3,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0049 (3).JPG,3,3,0,0,3,0,3,0,3,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0049.JPG,1,1,0,0,1,0,1,0,1,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0052 (2).JPG,3,3,0,0,3,0,3,0,3,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0052 (2).JPG,3,3,0,0,3,0,3,0,3,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0052 (2).JPG,3,3,0,0,3,0,3,0,3,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0052.JPG,1,1,0,1,1,1,0,1,0,shade,shade
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0053.JPG,3,3,0,0,3,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0053.JPG,3,3,0,0,3,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0053.JPG,3,3,0,0,3,1,0,1,0,shade,shade
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0054.JPG,3,3,0,0,3,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0054.JPG,3,3,0,0,3,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0054.JPG,3,3,0,0,3,1,0,1,0,shade,shade
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0055.JPG,2,2,0,0,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0055.JPG,2,2,0,0,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0056.JPG,2,2,0,1,1,2,0,0,1,shade,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0056.JPG,2,2,0,1,1,2,0,1,0,shade,shade
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0058 (2).JPG,2,2,0,0,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0058 (2).JPG,2,2,0,0,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0058.JPG,1,1,0,0,1,1,0,1,0,shade,shade
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0059.JPG,2,2,0,0,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0059.JPG,2,2,0,0,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0061 (2).JPG,2,2,0,0,2,0,1,0,1,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0061 (2).JPG,2,2,0,0,2,1,0,1,0,shade,shade
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0061 (3).JPG,2,2,0,0,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0061 (3).JPG,2,2,0,0,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0061.JPG,1,1,0,0,1,1,0,1,0,shade,shade
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0063.JPG,1,1,0,0,1,1,0,1,0,shade,shade
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0064 (2).JPG,3,3,0,0,3,0,1,0,1,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0064 (2).JPG,3,3,0,0,3,2,0,2,0,shade,shade
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0064 (2).JPG,3,3,0,0,3,2,0,2,0,shade,shade
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0064.JPG,2,2,0,0,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0064.JPG,2,2,0,0,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0065.JPG,2,2,0,0,2,0,1,0,1,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0065.JPG,2,2,0,0,2,1,0,1,0,shade,shade
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0066.JPG,3,3,0,0,3,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0066.JPG,3,3,0,0,3,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0066.JPG,3,3,0,0,3,1,0,1,0,shade,shade
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0068 (2).JPG,3,3,0,0,3,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0068 (2).JPG,3,3,0,0,3,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0068 (2).JPG,3,3,0,0,3,1,0,1,0,shade,shade
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0068 (3).JPG,3,3,0,0,3,0,3,0,3,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0068 (3).JPG,3,3,0,0,3,0,3,0,3,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0068 (3).JPG,3,3,0,0,3,0,3,0,3,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0068.JPG,1,1,0,0,1,0,1,0,1,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0070 (2).JPG,3,3,0,0,3,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0070 (2).JPG,3,3,0,0,3,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0070 (2).JPG,3,3,0,0,3,1,0,1,0,shade,shade
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0070 (3).JPG,1,1,0,0,1,0,1,0,1,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0070.JPG,2,2,0,0,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0070.JPG,2,2,0,0,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0073.JPG,2,2,0,0,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0073.JPG,2,2,0,0,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0076 (2).JPG,2,2,0,1,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0076 (2).JPG,2,2,0,1,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0076.JPG,1,1,0,0,1,1,0,1,0,shade,shade
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0077 (2).JPG,2,2,0,0,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0077 (2).JPG,2,2,0,0,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0077.JPG,3,3,0,0,3,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0077.JPG,3,3,0,0,3,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0077.JPG,3,3,0,0,3,1,0,1,0,shade,shade
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0079 (2).JPG,2,2,0,0,2,0,1,0,1,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0079 (2).JPG,2,2,0,0,2,1,0,1,0,shade,shade
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0079 (3).JPG,2,2,0,0,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0079 (3).JPG,2,2,0,0,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0079.JPG,2,2,0,0,2,0,1,0,1,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0079.JPG,2,2,0,0,2,1,0,1,0,shade,shade
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0080.JPG,2,2,0,0,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0080.JPG,2,2,0,0,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0082.JPG,2,2,0,0,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0082.JPG,2,2,0,0,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0083 (2).JPG,2,2,0,0,2,0,1,0,1,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0083 (2).JPG,2,2,0,0,2,1,0,1,0,shade,shade
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0083.JPG,2,2,0,0,2,0,1,0,1,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0083.JPG,2,2,0,0,2,1,0,1,0,shade,shade
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0084.JPG,2,2,0,0,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0084.JPG,2,2,0,0,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0088.JPG,2,2,0,0,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0088.JPG,2,2,0,0,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0089.JPG,1,1,0,0,1,1,0,1,0,shade,shade
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0091 (2).JPG,3,3,0,0,3,0,3,0,3,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0091 (2).JPG,3,3,0,0,3,0,3,0,3,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0091 (2).JPG,3,3,0,0,3,0,3,0,3,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0091.JPG,2,2,0,0,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0091.JPG,2,2,0,0,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0094 (2).JPG,3,3,0,0,3,0,3,0,3,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0094 (2).JPG,3,3,0,0,3,0,3,0,3,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0094 (2).JPG,3,3,0,0,3,0,3,0,3,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0094.JPG,3,3,0,0,3,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0094.JPG,3,3,0,0,3,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0094.JPG,3,3,0,0,3,1,0,1,0,shade,shade
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0095.JPG,1,1,0,0,1,1,0,1,0,shade,shade
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0096.JPG,3,3,0,0,3,0,3,0,3,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0096.JPG,3,3,0,0,3,0,3,0,3,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0096.JPG,3,3,0,0,3,0,3,0,3,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0100 (2).JPG,2,2,0,0,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0100 (2).JPG,2,2,0,0,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0100.JPG,1,1,0,0,1,1,0,1,0,shade,shade
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0101.JPG,2,2,0,0,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0101.JPG,2,2,0,0,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0103.JPG,2,2,0,1,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0103.JPG,2,2,0,1,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0108.JPG,1,1,0,0,1,0,1,0,1,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0109 (2).JPG,2,2,0,1,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0109 (2).JPG,2,2,0,1,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0109.JPG,2,2,0,0,2,0,1,0,1,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0109.JPG,2,2,0,0,2,1,0,1,0,shade,shade
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0110.JPG,2,2,0,0,2,0,1,0,1,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0110.JPG,2,2,0,0,2,1,0,1,0,shade,shade
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0112.JPG,2,2,0,0,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0112.JPG,2,2,0,0,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0113.JPG,2,2,0,0,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0113.JPG,2,2,0,0,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0115.JPG,3,3,0,0,3,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0115.JPG,3,3,0,0,3,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0115.JPG,3,3,0,0,3,1,0,1,0,shade,shade
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0117 (2).JPG,1,1,0,0,1,0,1,0,1,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0117.JPG,2,2,0,0,2,0,1,0,1,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0117.JPG,2,2,0,0,2,1,0,1,0,shade,shade
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0118.JPG,2,2,0,0,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0118.JPG,2,2,0,0,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0121.JPG,2,2,0,0,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0121.JPG,2,2,0,0,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0124.JPG,1,1,0,0,0,0,1,1,0,sun,shade
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0126.JPG,1,1,0,0,1,0,1,0,1,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0127.JPG,2,2,0,0,1,0,1,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0127.JPG,2,2,0,0,1,1,0,0,2,shade,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0128.JPG,1,1,0,0,1,0,1,0,1,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0133.JPG,2,2,0,0,2,0,1,0,1,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0133.JPG,2,2,0,0,2,1,0,1,0,shade,shade
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0136.JPG,1,1,0,0,1,0,1,0,1,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0140.JPG,1,1,0,0,1,0,1,0,1,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0142.JPG,1,1,0,0,1,0,1,0,1,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0145.JPG,2,2,0,0,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0145.JPG,2,2,0,0,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0148 (2).JPG,1,1,0,0,1,0,1,0,1,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0148.JPG,1,1,0,0,1,1,0,1,0,shade,shade
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0151 (2).JPG,2,2,0,0,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0151 (2).JPG,2,2,0,0,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0151.JPG,1,1,0,0,0,1,0,0,1,shade,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0152.JPG,1,1,0,0,1,0,1,0,1,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0154.JPG,2,2,0,0,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0154.JPG,2,2,0,0,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0157 (2).JPG,2,2,0,0,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0157 (2).JPG,2,2,0,0,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0157.JPG,1,1,0,0,1,1,0,1,0,shade,shade
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0159.JPG,1,1,0,0,1,1,0,1,0,shade,shade
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0163.JPG,3,3,0,0,3,0,3,0,3,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0163.JPG,3,3,0,0,3,0,3,0,3,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0163.JPG,3,3,0,0,3,0,3,0,3,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0166 (2).JPG,3,3,0,0,3,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0166 (2).JPG,3,3,0,0,3,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0166 (2).JPG,3,3,0,0,3,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0166.JPG,2,2,0,0,2,0,1,0,1,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0166.JPG,2,2,0,0,2,1,0,1,0,shade,shade
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0169.JPG,3,3,0,1,3,0,3,0,3,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0169.JPG,3,3,0,1,3,0,3,0,3,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0169.JPG,3,3,0,1,3,0,3,0,3,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0172.JPG,3,3,0,1,3,0,3,0,3,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0172.JPG,3,3,0,1,3,0,3,0,3,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0172.JPG,3,3,0,1,3,0,3,0,3,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0176.JPG,1,1,0,1,1,0,1,0,1,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0181.JPG,2,1,1,0,1,0,1,0,1,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0186.JPG,1,1,0,1,1,1,0,1,0,shade,shade
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0190.JPG,1,1,0,0,1,0,1,0,1,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0191 (2).JPG,2,2,0,1,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0191 (2).JPG,2,2,0,1,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0191.JPG,1,1,0,1,1,1,0,1,0,shade,shade
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0192.JPG,2,2,0,1,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0192.JPG,2,2,0,1,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0199 (2).JPG,2,2,0,1,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0199 (2).JPG,2,2,0,1,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0199.JPG,2,2,0,0,2,0,1,0,1,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0199.JPG,2,2,0,0,2,1,0,1,0,shade,shade
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0200 (2).JPG,3,3,0,0,3,0,1,0,1,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0200 (2).JPG,3,3,0,0,3,2,0,2,0,shade,shade
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0200 (2).JPG,3,3,0,0,3,2,0,2,0,shade,shade
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0200.JPG,2,2,0,0,2,0,1,0,1,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0200.JPG,2,2,0,0,2,1,0,1,0,shade,shade
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0202.JPG,3,3,0,1,3,0,3,0,3,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0202.JPG,3,3,0,1,3,0,3,0,3,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0202.JPG,3,3,0,1,3,0,3,0,3,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0203.JPG,1,1,0,0,1,0,1,0,1,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0206.JPG,2,2,0,1,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0206.JPG,2,2,0,1,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0211.JPG,1,1,0,0,1,1,0,1,0,shade,shade
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0213.JPG,2,1,1,0,1,0,1,0,1,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0214.JPG,2,2,0,0,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0214.JPG,2,2,0,0,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0217.JPG,3,3,0,0,3,0,3,0,3,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0217.JPG,3,3,0,0,3,0,3,0,3,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0217.JPG,3,3,0,0,3,0,3,0,3,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0220 (2).JPG,3,3,0,0,3,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0220 (2).JPG,3,3,0,0,3,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0220 (2).JPG,3,3,0,0,3,1,0,1,0,shade,shade
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0220.JPG,2,2,0,0,2,0,1,0,1,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0220.JPG,2,2,0,0,2,1,0,1,0,shade,shade
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0223.JPG,2,2,0,0,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0223.JPG,2,2,0,0,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0224.JPG,2,2,0,0,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0224.JPG,2,2,0,0,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0232.JPG,2,2,0,0,2,0,1,0,1,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0232.JPG,2,2,0,0,2,1,0,1,0,shade,shade
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0234.JPG,3,3,0,0,3,0,3,0,3,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0234.JPG,3,3,0,0,3,0,3,0,3,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0234.JPG,3,3,0,0,3,0,3,0,3,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0235 (2).JPG,1,1,0,1,1,1,0,1,0,shade,shade
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0235.JPG,2,2,0,0,2,0,1,0,1,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0235.JPG,2,2,0,0,2,1,0,1,0,shade,shade
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0237.JPG,1,1,0,0,1,0,1,0,1,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0238.JPG,2,2,0,0,2,0,1,0,1,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0238.JPG,2,2,0,0,2,1,0,1,0,shade,shade
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0244.JPG,2,2,0,0,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0244.JPG,2,2,0,0,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0247.JPG,3,3,0,0,3,0,3,0,3,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0247.JPG,3,3,0,0,3,0,3,0,3,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0247.JPG,3,3,0,0,3,0,3,0,3,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0249.JPG,2,2,0,0,2,0,1,0,1,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0249.JPG,2,2,0,0,2,1,0,1,0,shade,shade
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0250 (2).JPG,3,3,0,0,3,0,3,0,3,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0250 (2).JPG,3,3,0,0,3,0,3,0,3,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0250 (2).JPG,3,3,0,0,3,0,3,0,3,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0250.JPG,3,2,1,0,2,0,1,0,1,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0250.JPG,3,2,1,0,2,1,0,1,0,shade,shade
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0254.JPG,3,3,0,0,3,0,3,0,3,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0254.JPG,3,3,0,0,3,0,3,0,3,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0254.JPG,3,3,0,0,3,0,3,0,3,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0256.JPG,3,3,0,0,3,0,3,0,3,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0256.JPG,3,3,0,0,3,0,3,0,3,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0256.JPG,3,3,0,0,3,0,3,0,3,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0258.JPG,2,2,0,0,2,0,1,0,1,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0258.JPG,2,2,0,0,2,1,0,1,0,shade,shade
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0259.JPG,3,3,0,0,3,0,3,0,3,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0259.JPG,3,3,0,0,3,0,3,0,3,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0259.JPG,3,3,0,0,3,0,3,0,3,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0260.JPG,2,2,0,0,2,0,1,0,1,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0260.JPG,2,2,0,0,2,1,0,1,0,shade,shade
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0262.JPG,3,3,0,0,3,0,3,0,3,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0262.JPG,3,3,0,0,3,0,3,0,3,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0262.JPG,3,3,0,0,3,0,3,0,3,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0266.JPG,2,2,0,0,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0266.JPG,2,2,0,0,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0268.JPG,3,3,0,0,3,0,3,0,3,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0268.JPG,3,3,0,0,3,0,3,0,3,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0268.JPG,3,3,0,0,3,0,3,0,3,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0271.JPG,3,3,0,0,3,0,3,0,3,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0271.JPG,3,3,0,0,3,0,3,0,3,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0271.JPG,3,3,0,0,3,0,3,0,3,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0277.JPG,3,3,0,0,3,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0277.JPG,3,3,0,0,3,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0277.JPG,3,3,0,0,3,1,0,1,0,shade,shade
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0279.JPG,3,3,0,1,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0279.JPG,3,3,0,1,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0279.JPG,3,3,0,1,2,1,0,1,0,shade,shade
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0282.JPG,2,2,0,0,2,0,1,0,1,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0282.JPG,2,2,0,0,2,1,0,1,0,shade,shade
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0284.JPG,2,2,0,0,1,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0284.JPG,2,2,0,0,1,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0292.JPG,3,2,1,0,2,0,1,0,1,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0292.JPG,3,2,1,0,2,1,0,1,0,shade,shade
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0297.JPG,2,2,0,0,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0297.JPG,2,2,0,0,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0299.JPG,2,2,0,0,2,0,1,0,1,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0299.JPG,2,2,0,0,2,1,0,1,0,shade,shade
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0301.JPG,3,3,0,0,3,0,3,0,3,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0301.JPG,3,3,0,0,3,0,3,0,3,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0301.JPG,3,3,0,0,3,0,3,0,3,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0306.JPG,2,2,0,0,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0306.JPG,2,2,0,0,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0307.JPG,3,3,0,1,3,0,3,0,3,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0307.JPG,3,3,0,1,3,0,3,0,3,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0307.JPG,3,3,0,1,3,0,3,0,3,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0309.JPG,3,3,0,1,3,0,3,0,3,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0309.JPG,3,3,0,1,3,0,3,0,3,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0309.JPG,3,3,0,1,3,0,3,0,3,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0310.JPG,3,3,0,1,3,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0310.JPG,3,3,0,1,3,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0310.JPG,3,3,0,1,3,1,0,1,0,shade,shade
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0322.JPG,3,3,0,1,3,0,3,0,3,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0322.JPG,3,3,0,1,3,0,3,0,3,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0322.JPG,3,3,0,1,3,0,3,0,3,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0327.JPG,3,3,0,0,3,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0327.JPG,3,3,0,0,3,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0327.JPG,3,3,0,0,3,1,0,1,0,shade,shade
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0328.JPG,3,3,0,0,3,0,3,0,3,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0328.JPG,3,3,0,0,3,0,3,0,3,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0328.JPG,3,3,0,0,3,0,3,0,3,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0335.JPG,1,1,0,2,1,0,1,0,1,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0355.JPG,2,2,0,0,2,0,1,0,1,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0355.JPG,2,2,0,0,2,1,0,1,0,shade,shade
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0364 (2).JPG,2,2,0,0,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0364 (2).JPG,2,2,0,0,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0364.JPG,2,2,0,1,2,0,1,0,1,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0364.JPG,2,2,0,1,2,1,0,1,0,shade,shade
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0367.JPG,2,2,0,0,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0367.JPG,2,2,0,0,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0370.JPG,2,2,0,0,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0370.JPG,2,2,0,0,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0379.JPG,3,3,0,0,3,0,3,0,3,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0379.JPG,3,3,0,0,3,0,3,0,3,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0379.JPG,3,3,0,0,3,0,3,0,3,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0382.JPG,3,3,0,0,3,0,3,0,3,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0382.JPG,3,3,0,0,3,0,3,0,3,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0382.JPG,3,3,0,0,3,0,3,0,3,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0386.JPG,3,3,0,0,3,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0386.JPG,3,3,0,0,3,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0386.JPG,3,3,0,0,3,1,0,1,0,shade,shade
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0388.JPG,3,3,0,0,3,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0388.JPG,3,3,0,0,3,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0388.JPG,3,3,0,0,3,1,0,1,0,shade,shade
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0391.JPG,3,3,0,0,3,0,3,0,3,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0391.JPG,3,3,0,0,3,0,3,0,3,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0391.JPG,3,3,0,0,3,0,3,0,3,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0423.JPG,3,3,0,0,3,0,1,0,1,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0423.JPG,3,3,0,0,3,2,0,2,0,shade,shade
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0423.JPG,3,3,0,0,3,2,0,2,0,shade,shade
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0424.JPG,2,2,0,0,2,0,2,0,2,sun,sun
+/home/ofir/Dropbox/no color images/detections/detection_IMAG0424.JPG,2,2,0,0,2,0,2,0,2,sun,sun
